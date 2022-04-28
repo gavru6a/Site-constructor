@@ -1,4 +1,5 @@
-# Site-constructorENG
+# Site-constructor
+ENG
 Welcome! How to create pages? 
 
 Open folder "tpl" next create file witdh extension .html.
